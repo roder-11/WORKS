@@ -1,0 +1,36 @@
+﻿objet;date;duree;matricule_avion;type_avion;constructeur;nb_places;prenom_proprietaire;nom_proprietaire;num_proprietaire;rue_proprietaire;telephone_proprietaire;prenom_mecanicien;nom_mecanicien;num_mecanicien;rue_mecanicien;telephone_mecanicien;habilitation_1;habilitation_2;habilitation_3
+Turbine;2013-08-21;45;T112;Airbus A320;Airbus;150;Jean ; kagina;99; rue des dunes;12345678;Martin ;ALONSI;18;Chemin des Rois;11223344;Airbus A310;Airbus A320;
+Air conditionné;2013-08-21;30;M125;AASI Jetcruzer;AASI;5;Lionel;Noblet;1;Place de la Concorde;87654321;Tierry ;Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
+Moteur;2013-08-22;180;S175;Gulfstream G500;General Dynamics;19; Lionel ;NOBLET;1;Place de la Concorde;87654321;Jacques ;Dupont;4;Boulevard Lucas;98989898;Gulfstream G500;;
+Moteur;2013-08-22;210;T459;Airbus A310;Airbus;150;Jean;KAGINA;99;rue des dunes;12345678;Martin ;ALONSI;18;Chemin des Rois;11223344;Airbus A310;Airbus A320;
+Tableau de bord;2013-08-23;90;SN115;Boeing 747;Boeing;404;Jean;Kagina;99;rue des dunes ;12345678;Yvain ;Alonso;5;Chaussée du pauvre;12121212;Boeing 747;Airbus A310;Airbus A320
+Eclairage;2013-08-23;5;T489;Airbus A320;Airbus;150;Guillaume ;Van Bergen;45;rue des plaines;88800000;Martin; Alonsi;18; Chemin des Rois;11223344;Airbus A310;Airbus A320;
+Ajustement siège;2013-08-24;15;M125;AASI Jetcruzer;AASI;5;Lionel ;Noblet;1;Place de la Concorde;87654321;Tierry; Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
+Tableau de bord;2013-08-24;30;SN116;Boeing 747;Boeing;404;Guillaume;VanBergen;45;rue des plaines;88800000;Yvain ;Alonso;5;Chaussée du pauvre;12121212;Boeing 747;Airbus A310;Airbus A320
+Diagnostic turbine;2013-08-24;200;T155;Airbus A320;Airbus;150;Fedot ;Fyodorov;47;Chemin Challet;368418743;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Ventilation;2013-08-24;45;T180;Airbus A310;Airbus;150;Archie;Tect;8;Rue St Ferreol;36362547;Nicolas;Warren;68;rue du Limas;94533737;Airbus A310;;
+Remplacement tableau de bord;2013-08-24;120;SN117;Boeing 747;Boeing;404;Guillaume;Van Bergen;45;rue des plaines;88800000;Yvain ;Alonso;5;Chaussée du pauvre;12121212;Boeing 747;Airbus A310;Airbus A320
+Premier test de démarrage;2013-08-24;120;X101;Airbus A320;Airbus;150;Fedot ;FYODOROV;47;Chemin challet;368418743;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Réparation tableau de bord;2013-08-24;60;T180;Airbus A310;Airbus;150;Archie;Tect;8;Rue St Ferreol;36362547;Nicolas;Warren;68;rue du Limas;94533737;Airbus A310;;
+Vérification instruments;2013-08-24;60;T180;Airbus A310;Airbus;150;Archie;tect;8;Rue St Ferreol;36362547;Nicolas;Warren;68;rue du Limas;94533737;Airbus A310;;
+Diagnostic complet;2013-08-25;240;X101;Airbus A320;Airbus;150;Fedot ;Fyodorov;47;Chemin Challet;368418743;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Vérification instruments;2013-08-25;30;SN115;Boeing 747;Boeing;404;Jean;KAGINA;99;rue des dunes ;12345678;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Vérification instruments;2013-08-25;30;SN116;Boeing 747;Boeing;404;Guillaume;Van Bergen;45;rue des plaines;88800000;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Vérification instruments;2013-08-25;30;SN117;Boeing 747;Boeing;404;Guillaume;Van Bergen;45;rue des plaines;88800000;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Vérification instruments;2013-08-25;30;SN118;Boeing 747;Boeing;404;Guillaume;Van BERGEN;45;rue des plaines;88800000;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Extraction pigeon;2013-08-25;20;T155;Airbus A320;Airbus;150;Fedot ;Fyodorov;47;Chemin Challet;368418743;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Eclairage;2013-08-25;15;T112;Airbus A320;Airbus;150;Jean ;kagina;99; rue des dunes;12345678;Nicolas;Warren;68;rue du Limas;94533737;Airbus A310;;
+Nettoyage turbine;2013-08-25;30;T155;Airbus A320;Airbus;150;Fedot ; Fyodorov;47;Chemin Challet;368418743;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Vérification circuits électriques;2013-08-25;30;SN118;Boeing 747;Boeing;404;guillaume;van bergen;45;rue des plaines;88800000;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Machine à glaçons;2013-08-25;60;M125;AASI Jetcruzer;AASI;5;Lionel ;Noblet;1;Place de la Concorde;87654321;Tierry; Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
+Ajustement volets;2013-08-26;30;T180;Airbus A310;Airbus;150;Archie;Tect;8;Rue St Ferreol;36362547;Evelyn;Cunha Rodrigues;83;rue du général ailleret;73655694;Airbus A320;Airbus A310;
+Nettoyage réacteur;2013-08-26;120;SN115;Boeing 747;Boeing;404;Jean;Kagina;99;rue des dunes ;12345678;David;Glover;725;Quai des sables;306941124;Boeing 747;;
+Diagnostic démarrage;2013-08-26;60;SN115;Boeing 747;Boeing;404;Jean;Kagina;99;rue des dunes ;12345678;Yvain ;Alonso;5;Chaussée du pauvre;12121212;Boeing 747;Airbus A310;Airbus A320
+Remplacement ampoule;2013-08-26;5;M125;AASI Jetcruzer;AASI;5;Lionel ;Noblet;1;Place de la Concorde;87654321;Tierry; Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
+Mise à jour auto-pilote;2013-08-26;30;T112;Airbus A320;Airbus;150;Jean ;Kagina;99; rue des dunes;12345678;Juan;Yin;7;place du jeu de paume;72719239;Airbus A310;Airbus A320;
+Mise à jour auto-pilote;2013-08-26;30;T180;Airbus A310;Airbus;150;Archie;Tect;8;Rue St Ferreol;36362547;Juan;Yin;7;place du jeu de paume;72719239;Airbus A310;Airbus A320;
+Mise à jour auto-pilote;2013-08-26;30;T155;Airbus A320;Airbus;150;Fedot ;Fyodorov;47;Chemin Challet;368418743;Juan;Yin;7;place du jeu de paume;72719239;Airbus A310;Airbus A320;
+Mise à jour auto-pilote;2013-08-26;30;T459;Airbus A310;Airbus;150;Jean ; kagina;99; rue des dunes;12345678;Juan;Yin;7;place du jeu de paume;72719239;Airbus A310;Airbus A320;
+Mise à jour auto-pilote;2013-08-26;30;T489;Airbus A320;Airbus;150;Guillaume ;Van Bergen;45;rue des plaines;88800000;Juan;Yin;7;place du jeu de paume;72719239;Airbus A310;Airbus A320;
+Ajout siège éjectable;2013-08-26;180;M125;AASI Jetcruzer;AASI;5;Lionel ;Noblet;1;Place de la Concorde;87654321;Tierry; Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
+Retrait parachute;2013-08-26;5;M125;AASI Jetcruzer;AASI;5;Lionel ;Noblet;1;Place de la Concorde;87654321;Tierry; Mitchell;152;Avenue Jacobi;26262626;AASI Jetcruzer;Gulfstream G500;
