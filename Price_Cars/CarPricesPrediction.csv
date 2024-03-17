@@ -1,0 +1,15 @@
+Fabricants;Quantité;;Model;Nombre de Model;;Catégorie;Fabricants;;;;;
+Chevrolet;209;;Altima;226;;Conditions;Chevrolet;Ford;Honda;Nissan;Toyota;Total général
+Ford;199;;Camry;212;;Excellent;120;120;118;111;126;595
+Honda;199;;Civic;182;;Fair;20;22;26;20;25;113
+Nissan;188;;F-150;188;;Good;69;57;55;57;54;292
+Toyota;205;;Silverado;192;;Total général;209;199;199;188;205;1000
+Total général;1000;;Total général;1000;;;;;;;;
+;;;;;;;;;;;;
+Fabricants;Montants;;Model;Montants;;;;;;;;
+Chevrolet;4589055,55;;Altima;4936254,85;;;;;;;;
+Ford;4448528,7;;Camry;4763667,6;;;;;;;;
+Honda;4425378,75;;Civic;4008553,35;;;;;;;;
+Nissan;4246450,4;;F-150;4257212,7;;;;;;;;
+Toyota;4485792,25;;Silverado;4229517,15;;;;;;;;
+Total général;22195205,65;;Total général;22195205,65;;;;;;;;
